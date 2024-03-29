@@ -2,7 +2,7 @@ git init
 git clone
 git pull
 
-git add và git add .
+git add and git add .
 git commit
 git push
 
